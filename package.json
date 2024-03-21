@@ -1,0 +1,40 @@
+{
+  "name": "nihileveniet",
+  "version": "1.7.4",
+  "description": "Pay futbol blockchain explorer search tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElbertSwaniawski/nihileveniet.git"
+  },
+  "keywords": [
+    "address",
+    "blockchain",
+    "sit",
+    "et",
+    "ethereum",
+    "modi",
+    "litecoin",
+    "doge",
+    "modi",
+    "bch",
+    "bnb",
+    "iusto",
+    "search",
+    "laborum",
+    "sunt",
+    "transaction"
+  ],
+  "author": "MillerBeatty",
+  "license": "MIT",
+  "dependencies": {
+    "autarchitecto": "^1.0.0",
+    "axios": "^0.19.0",
+    "estipsa": "^1.0.0",
+    "request": "^2.88.0",
+    "sprintf": "^0.1.5"
+  }
+}
